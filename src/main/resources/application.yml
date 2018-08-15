@@ -1,0 +1,18 @@
+# 当前应用名称
+spring:
+  application:
+    name: spring-rabbit-demo
+   
+    
+# 当前应用端口
+server:
+  port: 8080
+  
+# rabbitmq地址
+#---
+#spring:
+#  rabbitmq:
+#    addresses: 10.10.9.153
+#    port: 5672
+#    username: test
+#    password: 123456a
